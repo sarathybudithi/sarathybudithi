@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarathybudithi
+- 👋 Hi, I’m @parthasarathybudithi
 - 👀 I’m on ny ML journey to gain expertise and 
 collaborate on github for exiting projects
 
